@@ -1,6 +1,6 @@
 Componentes da equipe:
-Alunos: Caio Macilon Lima Carneiro
-        Gabriel Maciel de Lima Lopes
+Alunos: Caio Macilon Lima Carneiro,
+        Gabriel Maciel de Lima Lopes,
         Gustavo Araujo Silva
         
 Para a especificação do gerenciador de processos de um simulador de sistema operacional, proponho a estruturação de um documento de especificação de projeto.
