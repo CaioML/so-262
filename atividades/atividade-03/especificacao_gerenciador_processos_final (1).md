@@ -6,8 +6,6 @@
 - **Repositório:** Cada componente da equipe deve obrigatoriamente postar este documento em seu respectivo repositório pessoal no GitHub.
 - **Propósito do Documento:** Esta especificação servirá como *prompt* (entrada de contexto) para a criação do código-fonte do simulador utilizando um Harness de IA (ex: Claude Code, Open Code). Por isso, as regras de negócio, estruturas de dados e fluxos estão detalhados tecnicamente.
 
----
-
 ## Parte 1: Visão Geral e Arquitetura do Simulador
 
 ### 1.1 Contexto do Simulador
